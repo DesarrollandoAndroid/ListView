@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListView</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoToast">"Has seleccionado: "</string>
+
+
+    <!-- Datos a introducir en nuestro ListView -->
+    <!-- Titulos -->
+    <string name="tit1">Componentes de una aplicación Android</string>
+    <string name="tit2">Activity Class I</string>
+    <string name="tit3">Activity Class II</string>
+    <string name="tit4">Intent Class I</string>
+    <string name="tit5">Intent Class II</string>
+    <string name="tit6">Intent Class III</string>
+    <string name="tit7">Ejemplo práctico: Activity Class e Intent Class I</string>
+    <string name="tit8">Ejemplo práctico: Activity Class e Intent Class II</string>
+    <string name="tit9">Permisos</string>
+    <string name="tit10">Fragment Class</string>
+    <!-- Subtitulos -->
+    <string name="subtitulo">Desarrollando Android</string>
+</resources>
